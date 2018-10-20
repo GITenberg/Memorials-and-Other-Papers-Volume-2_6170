@@ -1,5 +1,5 @@
 _repo: Memorials-and-Other-Papers-Volume-2_6170
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,6 +30,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PR'
 - !lcsh 'English essays'
+- GITenberg
 tableOfContents: Klosterheim -- The sphinx's riddle -- The templars' dialogues.
 title: Memorials and Other Papers — Volume 2
 url: http://www.gutenberg.org/ebooks/6170
